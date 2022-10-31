@@ -1,4 +1,4 @@
 git pull
-git git add .
+git add .
 git commit -m "os-update"
 git push origin master
